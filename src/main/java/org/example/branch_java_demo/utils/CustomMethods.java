@@ -27,4 +27,8 @@ public class CustomMethods {
         // code here
     }
 
+    public void newMethod02() {
+        
+    }
+
 }
