@@ -16,5 +16,7 @@ public class Main {
 
         System.out.println(methods.add(2, 3));
 
+        System.out.println(methods.multiply(2, 3));
+
     }
 }
