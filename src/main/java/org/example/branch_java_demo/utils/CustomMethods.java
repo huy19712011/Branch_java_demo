@@ -13,7 +13,7 @@ public class CustomMethods {
     }
 
 
-    public double devide(double x, double y) {
+  public double divide(double x, double y) {
 
         return x / y;
     }
@@ -21,6 +21,10 @@ public class CustomMethods {
     public double multiply(double x, double y) {
 
         return x * y;
+    }
+
+    public void newMethod01() {
+        // code here
     }
 
 }
