@@ -63,14 +63,23 @@ public class CustomMethods {
     }
 
 
-  public void MethodNgoc3()
+    public void MethodNgoc3()
     {
         //method Ngoc
     }
 
+
     public void methodA_5() {
 
         // method A 5
+
+    }  
+  
+    public void methodB_5() {
+
+        // method B 5
     }
+
+
 
 }
