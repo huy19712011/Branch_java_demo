@@ -78,4 +78,9 @@ public class CustomMethods {
         // method B 5
     }
 
+    public void methodB_6() {
+
+        // method B 6
+    }
+
 }
