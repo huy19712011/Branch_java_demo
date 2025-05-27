@@ -101,5 +101,10 @@ public class CustomMethods {
         // method B 7
     }
 
+    public void methodA_8() {
+
+        // method A 8
+    }
+
 
 }
