@@ -52,4 +52,9 @@ public class CustomMethods {
         //dong comment 2
     }
 
+    public void newMethodHuy()
+    {
+        // new method Huy
+    }
+
 }
