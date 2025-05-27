@@ -56,5 +56,8 @@ public class CustomMethods {
     {
         // new method Huy
     }
-
+    public void MethodNgoc3()
+    {
+        //method Ngoc
+    }
 }
