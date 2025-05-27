@@ -31,4 +31,9 @@ public class CustomMethods {
         
     }
 
+    public void newMethodA() {
+        // method A
+        System.out.println("Method A");
+    }
+
 }
