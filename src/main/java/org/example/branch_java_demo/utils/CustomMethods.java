@@ -126,7 +126,14 @@ public class CustomMethods {
     // method B 9
   }
 
+
+   public void methodA_10() {
+      // method A 10
+
+  }
+  
   public void methodB_10() {
       // method B 10
   }
+
 }
