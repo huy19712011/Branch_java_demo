@@ -113,6 +113,11 @@ public class CustomMethods {
         // method B 8
     }
 
+    public void methodA_9() {
+
+      // method A 9
+    }
+
 
 
 
