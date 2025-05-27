@@ -47,4 +47,9 @@ public class CustomMethods {
         //method Ngoc
     }
 
+    public void newMethodHuy()
+    {
+        // new method Huy
+    }
+
 }
