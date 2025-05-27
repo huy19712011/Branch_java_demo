@@ -42,4 +42,9 @@ public class CustomMethods {
         System.out.println("Method B");
     }
 
+    public void newMethodNgoc()
+    {
+        //method Ngoc
+    }
+
 }
