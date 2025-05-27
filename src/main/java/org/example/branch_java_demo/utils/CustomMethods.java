@@ -56,8 +56,16 @@ public class CustomMethods {
     {
         // new method Huy
     }
-    public void MethodNgoc3()
+
+
+    public void oneMoreMethodHuy3() {
+        // method Huy 3
+    }
+
+
+  public void MethodNgoc3()
     {
         //method Ngoc
     }
+
 }
