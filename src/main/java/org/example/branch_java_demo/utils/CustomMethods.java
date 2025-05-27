@@ -80,6 +80,10 @@ public class CustomMethods {
         // method B 5
     }
 
+    public void methodA_6() {
+        // method A 6
+    }
+
 
 
 }
