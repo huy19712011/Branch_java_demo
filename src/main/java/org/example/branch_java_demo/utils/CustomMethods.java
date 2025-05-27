@@ -46,5 +46,10 @@ public class CustomMethods {
     {
         //method Ngoc
     }
+    public void newMethodNgoc2()
+    {
+        //method Ngoc branch Ngoc
+        //dong comment 2
+    }
 
 }
