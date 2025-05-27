@@ -31,4 +31,8 @@ public class CustomMethods {
         
     }
 
+    public void newMethodA() {
+        // method A
+    }
+
 }
