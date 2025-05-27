@@ -68,6 +68,11 @@ public class CustomMethods {
         //method Ngoc
     }
 
+    public void methodA_5() {
+
+        // method A 5
+    }
+
     public void methodB_5() {
 
         // method B 5
