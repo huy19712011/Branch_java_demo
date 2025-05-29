@@ -155,6 +155,10 @@ public class CustomMethods {
 
   public void methodA_13() {
 
-      // method A 13
+    // method A 13
+  }
+  public void methodB_13() {
+
+      // method B 13
   }
 }
