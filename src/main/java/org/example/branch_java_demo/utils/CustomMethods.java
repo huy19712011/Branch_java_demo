@@ -157,4 +157,9 @@ public class CustomMethods {
 
       // method B 13
   }
+
+  public void methodB_14() {
+
+      // method B 14
+  }
 }
