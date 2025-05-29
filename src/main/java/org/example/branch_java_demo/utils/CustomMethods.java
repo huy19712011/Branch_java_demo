@@ -164,6 +164,10 @@ public class CustomMethods {
 
   public void methodA_14() {
 
-      // method A 14
+    // method A 14
+  }
+  public void methodB_14() {
+
+      // method B 14
   }
 }
